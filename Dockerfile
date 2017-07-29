@@ -12,4 +12,5 @@ RUN set -ex ;\
     gawk \
     subversion \
     mercurial \
+    wget \
     zlib1g-dev
